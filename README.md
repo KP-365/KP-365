@@ -1,6 +1,6 @@
 # Kayleb Parkes
 
-MSc Artificial Intelligence at Queen Mary University of London, building ML systems across healthcare, finance, and sport.
+MSc Artificial Intelligence at Queen Mary University of London, building ML/AI systems across healthcare, finance, and sport.
 
 I work on problems where data is messy, labels are scarce, and production constraints are real. Current interests: continual learning, clinical AI, and uncertainty quantification.
 
